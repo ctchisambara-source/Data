@@ -1,6 +1,6 @@
 # Excel Data
 
-## Project Overview
+## 📌 Project Overview
 This project was undertaken during a Data Technician bootcamp to build essential skills in Microsoft Excel, including data cleaning, transformation, analysis, and visualization. By working with retail and sales datasets, it highlights competence in using formulas, PivotTables, sorting and filtering data, applying categorization logic, and creating charts.
 
 ## Skills
@@ -20,7 +20,7 @@ Gaining hands-on experience with data cleaning, transformation, and analysis, ma
   Examples of formula functions used
   - Vlook up (). INDEX(), MATCH(), SUMIFS(), AVERAGEIFS(), CONCAT(), OFFSET().
 
-## Pivot Tables & Analysis
+##📈 Pivot Tables & Analysis
 Analysing Sales volumes
 
 Customer demographics by age, group, country and gender
