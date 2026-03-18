@@ -20,7 +20,8 @@ Gaining hands-on experience with data cleaning, transformation, and analysis, ma
   Examples of formula functions used
   - Vlook up (). INDEX(), MATCH(), SUMIFS(), AVERAGEIFS(), CONCAT(), OFFSET().
 
-##📈 Pivot Tables & Analysis
+📈 Pivot Tables & Analysis
+------
 Analysing Sales volumes
 
 Customer demographics by age, group, country and gender
@@ -55,5 +56,15 @@ Designing charts for effective visual storytelling
 
 Exploring retail and bike sales datasets to surface insights
 
+<img width="482" height="484" alt="Screenshot 2026-03-18 at 08 10 56" src="https://github.com/user-attachments/assets/193bba30-e144-4cbc-a367-501fde241580" />
+
+
+💡 Key Takeaways
+
+This project enhanced my skills in:
+- Working with Excel formulars and Function to analyze datasets effectively.
+- Summarizing and organisaing complex data through Pivot Table
+- Using ligicial function to classify and catergorize information
+- Designing charts and Visualization to clearly communicate insights. 
 
 
